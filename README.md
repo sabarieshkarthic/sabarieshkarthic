@@ -1,5 +1,6 @@
-##                                                       I'm Sabariesh
-##                                                 Passion For Machine Learning
+##------------------------------------------------------- Hi👋,I'm Sabariesh--------------------------------------------------------------------
+##--------------------------------------------------- Passion For Machine Learning --------------------------------------------------------------
+- MSc Data Science Student @ PSGTech
 - Exploring Deep Learning and LLM
 - Interested in building Robotic Intelligence System
 
