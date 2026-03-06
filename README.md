@@ -1,5 +1,5 @@
-## I'm Sabariesh,Data Science Student
-## Passion For Machine Learning
+##                                                       I'm Sabariesh
+##                                                 Passion For Machine Learning
 - Exploring Deep Learning and LLM
 - Interested in building Robotic Intelligence System
 
